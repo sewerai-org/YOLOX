@@ -7,6 +7,8 @@ import sys
 
 TORCH_AVAILABLE = True
 
+from torch.utils import cpp_extension
+
 
 def get_package_dir():
     pkg_dir = {
