@@ -6,7 +6,6 @@ thop
 ninja
 tabulate
 psutil
-setuptools
 tensorboard
 
 # verified versions
